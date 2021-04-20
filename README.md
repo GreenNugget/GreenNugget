@@ -1,16 +1,13 @@
-### Hi there 👋
+#### Hi, I'm Naomi :hatching_chick:
 
-<!--
-**GreenNugget/GreenNugget** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer student and I enjoy learning (and teaching) about new things! 🚀
 
-Here are some ideas to get you started:
+* I'm currently learning Laravel and more about UI/UX Design
+* I love web design and development
+* I'm currently working as a teacher in IBITS Academy
+* I enjoy reading and watching sci-fi stuffs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### You can find me on:
+
+- [ :eyeglasses: linkedIn](www.linkedin.com/in/naomi-garcía-sánchez-6479a4162)
+- [ :bird: Twitter](https://twitter.com/GreenNugget13)
