@@ -8,7 +8,7 @@ I'm a software engineer student and I enjoy learning (and teaching) about new th
 
 ### You can find me on:
 
-- [ :eyeglasses: linkedIn]( www.linkedin.com/in/naomi-garcía-sánchez-6479a4162)
+- [ :eyeglasses: linkedIn](https://www.linkedin.com/in/naomi-garcía-sánchez-6479a4162)
 - [ :bird: Twitter](https://twitter.com/GreenNugget13)
 
 Check out my CV: [GreenNugget](https://greennugget.github.io/)
