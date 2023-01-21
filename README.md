@@ -1,8 +1,8 @@
-#### Hi, I'm Naomi :hatching_chick:
+#### Hi, I'm Naomi 🐣
 
 I'm a software engineer student and I enjoy learning (and teaching) about new things! 🚀
 
-* I'm currently learning more about UI/UX Design
+* I'm currently working with CodeIgniter! but I do prefer Java ❤️
 * I love web design and development
 * I enjoy coding while listening to music to refactor the code later 😃
 
